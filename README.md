@@ -2,6 +2,9 @@
 
 ## Curriculum
 
+<em>week 1</em>
+* Orientation
+
 <em>week 2</em>
 * 1 Web Development Basics
   * Web Fundamentals 

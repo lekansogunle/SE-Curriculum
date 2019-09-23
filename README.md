@@ -48,17 +48,20 @@
 <em>week 5</em>
 * 4 JavaScript Programming
   * 4.2 JavaScript Fundamentals, part 2
-    * Comparisons
     * Interaction: alert, prompt, confirm
     * Conditional operators: if, '?'
-    * Logical operators
+    * Logical operators and Comparisons
     * Loops: while and for
     * The "switch" statement
 
-  * 4.3 
-    * Data types Methods(String methods, Array methods, etc)
+  * 4.3 Data types Methods
+    * String methods
+    * Number methods
+    * Array methods
+    * Date methods
+    * Object methods
 
-  * 4.4
+  * 4.4 Functions
     * Functions
     * Function expressions and arrows
     * Functional Programming

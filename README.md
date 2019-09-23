@@ -52,7 +52,7 @@
     * Interaction: alert, prompt, confirm
     * Conditional operators: if, '?'
     * Logical operators
-    * Loops: while and for 
+    * Loops: while and for
     * The "switch" statement
 
   * 4.3 
@@ -61,7 +61,7 @@
   * 4.4
     * Functions
     * Function expressions and arrows
-    * Functional Programming 
+    * Functional Programming
 
 <em>week 6</em>
 * 4 JavaScript Programming
@@ -72,7 +72,8 @@
   * 4.6
     * This, Scope and Closures
     * Javascript DOM(events and effects)
-    * The Module Pattern 
+    * jQuery
+    * The Module Pattern
 
   * 4.7
     * Error Handling 

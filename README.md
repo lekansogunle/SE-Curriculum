@@ -70,7 +70,7 @@
     * SOLID Design Principles
 
   * 4.6
-    * This`, Scope and Closures
+    * This, Scope and Closures
     * Javascript DOM(events and effects)
     * The Module Pattern 
 

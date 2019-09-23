@@ -50,7 +50,6 @@
   * 4.2 JavaScript Fundamentals, part 2
     * Interaction: alert, prompt, confirm
     * Conditional operators: if, '?'
-    * Logical operators and Comparisons
     * Loops: while and for
     * The "switch" statement
 
@@ -59,7 +58,7 @@
     * Number methods
     * Array methods
     * Date methods
-    * Object methods
+    * Objects
 
   * 4.4 Functions
     * Functions

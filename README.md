@@ -72,10 +72,10 @@
     * SOLID Design Principles
 
   * 4.6
+    * The Module Pattern
     * This, Scope and Closures
     * Javascript DOM(events and effects)
     * jQuery
-    * The Module Pattern
 
   * 4.7
     * Error Handling 
